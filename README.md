@@ -1,5 +1,5 @@
 ##Hello, my name is Nguyet Anh.  
-I am currently a Software Engineering student at Posts and Telecommunications Institute of Technology.  
+I am currently a second-year student at Posts and Telecommunications Institute of Technology.  
 
 🔹 Interests:
 - Software requirements and system analysis  
