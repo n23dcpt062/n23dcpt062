@@ -1,17 +1,17 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Student at PTIT | Multimedia Technology Major 🎨💻</h3>
+<h1 align="center">Hi there👋, I'm Nguyệt Ánh</h1>
+<h3 align="center">Student at  Posts and Telecommunications Institute of Technology <br>
+ Major 🎨💻: Multimedia Technology</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 I’m currently studying at **Posts and Telecommunications Institute of Technology (PTIT)**
 - 📚 Major: **Multimedia Technology**
-- 🌱 I’m learning **UI/UX Design, Web Development, and Multimedia Applications**
+- 🌱 I’m learning **UI/UX Design, Web Development, Design and Making a video**
 - 👯 I’m looking to collaborate on **creative multimedia projects & open source**
-- 💬 Ask me about **UI/UX, Frontend Development, Multimedia Tech**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **n23dcpt062@student.ptithcm.edu.vn**
 - 🎬 Fun fact: *I enjoy blending technology with art to create engaging digital experiences*
 
 ---
@@ -36,7 +36,6 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://facebook.com/YOUR-FACEBOOK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
