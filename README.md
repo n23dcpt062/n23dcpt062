@@ -1,34 +1,75 @@
-<!-- Profile README -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4F46E5;">Your Name</span>
+</h1>
 
-<h1 align="center">Hi there👋, I'm Nguyệt Ánh</h1>
-<h3 align="center">Student at  Posts and Telecommunications Institute of Technology <br>
- Major 🎨💻: Multimedia Technology</h3>
+<h3 align="center">
+  Multimedia Developer | UI/UX Designer | Creative Technologist
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 I’m currently studying at **Posts and Telecommunications Institute of Technology (PTIT)**
-- 📚 Major: **Multimedia Technology**
-- 🌱 I’m learning **UI/UX Design, Web Development, Design and Making a video**
-- 👯 I’m looking to collaborate on **creative multimedia projects & open source**
-- 📫 How to reach me: **n23dcpt062@student.ptithcm.edu.vn**
-- 🎬 Fun fact: *I enjoy blending technology with art to create engaging digital experiences*
+## 🎨 About Me
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Multimedia Technology student  
+- 💻 Passionate about **UI/UX, Web Design, Motion & Video**
+- 🎬 Experience in **content creation & digital media**
+- 🚀 Always learning new tools & creative technologies  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠 Tech & Creative Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,pr,ae" />
 </p>
-## 🌐 Connect with me:
+
+- **Design:** Photoshop, Illustrator, Figma  
+- **Video:** Premiere Pro, After Effects  
+- **Web:** HTML, CSS, JavaScript  
+- **UI/UX:** Wireframe, Prototype, Responsive Design  
+
+---
+
+## 📌 Featured Projects
+✨ *Some of my favorite works*
+
+- 🏋️ **Gym Media Platform**  
+  Multimedia website for content, videos & livestream  
+
+- 📚 **Bookstore Website**  
+  Frontend UI/UX design for online bookstore  
+
+---
+
+## 📊 GitHub Stats (Animated)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://behance.net/yourname">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
 </p>
+
+⭐ *Thanks for visiting my profile!*
