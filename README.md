@@ -1,75 +1,75 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#4F46E5;">Your Name</span>
-</h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6C8&height=200&section=header&text=Hello%20I'm%20Your%20Name&fontSize=38&fontColor=7C6A4F&animation=fadeIn" />
+</p>
 
 <h3 align="center">
-  Multimedia Developer | UI/UX Designer | Creative Technologist
+  Multimedia Designer • UI/UX Lover • Creative Technologist
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120">
 </p>
 
 ---
 
-## 🎨 About Me
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 🌼 About Me
+<img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 - 🎓 Multimedia Technology student  
-- 💻 Passionate about **UI/UX, Web Design, Motion & Video**
-- 🎬 Experience in **content creation & digital media**
-- 🚀 Always learning new tools & creative technologies  
+- 🎨 Passionate about **soft UI, motion & visual storytelling**
+- 💻 Interested in **UI/UX & creative web**
+- 🎬 Love creating **aesthetic digital experiences**
+- 🌱 Calm, creative & always learning  
 
 ---
 
-## 🛠 Tech & Creative Skills
+## 🎀 Creative Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,pr,ae" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,ps,ai,pr,ae&theme=light" />
 </p>
 
 - **Design:** Photoshop, Illustrator, Figma  
-- **Video:** Premiere Pro, After Effects  
+- **Motion:** Premiere Pro, After Effects  
 - **Web:** HTML, CSS, JavaScript  
-- **UI/UX:** Wireframe, Prototype, Responsive Design  
+- **UI/UX:** Wireframe, Prototype, User Flow  
 
 ---
 
-## 📌 Featured Projects
-✨ *Some of my favorite works*
+## ✨ Featured Projects
+- 🌷 **Gym Media Platform**  
+  Soft & modern media website for content & livestream  
 
-- 🏋️ **Gym Media Platform**  
-  Multimedia website for content, videos & livestream  
-
-- 📚 **Bookstore Website**  
-  Frontend UI/UX design for online bookstore  
+- 📖 **Online Bookstore UI**  
+  Beige–tone frontend design focused on user comfort  
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 🌾 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=graywhite" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💌 Connect With Me
 <p align="left">
   <a href="https://behance.net/yourname">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Behance-F5E6C8?style=for-the-badge&logo=behance&logoColor=7C6A4F"/>
   </a>
   <a href="https://linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F3D9A3?style=for-the-badge&logo=linkedin&logoColor=7C6A4F"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FAEED1?style=for-the-badge&logo=gmail&logoColor=7C6A4F"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6C8&height=120&section=footer"/>
 </p>
 
-⭐ *Thanks for visiting my profile!*
+🌼 *Soft design • Calm creativity • Multimedia soul*
