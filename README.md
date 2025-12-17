@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3ZHNwZWt6d2FlZHB1cWhnY2JqaTQ5ZGVjN2FybTVibTFpOXJxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="120">
 </p>
 
 ---
